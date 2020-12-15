@@ -1,0 +1,25 @@
+body {
+  background: green;
+  color: white;
+  font-family: sans-serif;
+}
+
+bc-sandbox > .sandbox {
+  background: #ffd7b9;
+  border: 10px solid brown;
+  display: block;
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+
+bc-bug > img {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+
+bc-score {
+  font-size: 16px;
+  dispay: block;
+}
